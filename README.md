@@ -1,6 +1,6 @@
 
 
-## Agrus Agents Project (aka. Process-GPT)
+## Agrus Agents Project (a.k.a. Process-GPT)
 **A BPMN-based Multi-Agent Orchestration Framework for the Enterprise**
 
 ![Overall Architecture](docs/thumbnails/process-gpt.png)
